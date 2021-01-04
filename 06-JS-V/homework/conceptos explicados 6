@@ -1,0 +1,2 @@
+prototype: Todos los objetos tienen una referencia a otro objeto llamado proto.
+Constructors (de Clases): Plantilla para la creacion de datos segun un modelo predefinido. Se usan para representar conceptos.
