@@ -1,0 +1,6 @@
+Objetos: Coleccion de propiedades
+Propiedades: Asociacion entre un nombre y un valor.
+Métodos: Asi se las llama a las funciones.
+Bucle for…in: Este se usa para los objetos porque no tienen indices numericos como el otro bucle. En entreparentesis se pone la variable, el in y el nombre del objeto.
+Notación de puntos vs notación de corchetes: de puntos se la usa para acceder a algo, se pone el nombre del objeto.y el elemento al que se quiere acceder(edad)
+de corchetes es igual para acceder, se pone el elemento entre comillas y entre corchetes.
