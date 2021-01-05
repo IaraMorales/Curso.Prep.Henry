@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 500px;
+    width: 600px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 10px solid salmon;
+}
+#spanId {
+    margin: 50px;
+    font-size: 18px;
+}
